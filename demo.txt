@@ -1,1 +1,3 @@
-Mon fannage sur git
+Mon fannage sur git.
+
+Git est vraiment important pour le travail en équipe
