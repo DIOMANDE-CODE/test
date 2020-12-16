@@ -1,3 +1,5 @@
 Mon fannage sur git.
 
-Git est vraiment important pour le travail en équipe
+Git est vraiment important pour le travail en équipe.
+
+je vous le conseille vraiment, en particulier pour des developeurs
