@@ -1,5 +1,11 @@
 Mon fannage sur git.
 
+<<<<<<< HEAD
 Git est vraiment important pour le travail en équipe.
 
 je vous le conseille vraiment, en particulier pour des developeurs
+=======
+Git est vraiment important pour le travail en équipe
+
+ajout d'une nouvelle branche
+>>>>>>> authentification
